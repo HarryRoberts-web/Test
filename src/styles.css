@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    background: purple;
+}
+
+body * {
+
+    margin: 0;
+}
